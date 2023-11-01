@@ -1,3 +1,4 @@
 # MIST4610Project
 ## Problem Description
 Our client has tasked us with modeling the internal database of their urgent medical care facility. The facility provides emergency services that do not require a trip to a hospital emergency room, as well as regular scheduled appointments to patients. The facility is regularly staffed by multiple physicians and nurses. Physicians may prescribe and administer medication, and patients may be covered by insurance and provide feedback on the service(s) they received. Our team’s objective is to design the relational database around these aspects of the client’s business, taking into account how each entity interacts with each other. The database is also meant to keep track of their day-to-day operations and provide useful insights into trends, demographics, and other analytics. 
+![image](https://github.com/C0John/MIST4610Project/assets/149621626/d13fb115-0986-4d7c-8908-26818dcc4863)
