@@ -5,7 +5,7 @@ The Dream Team
 ## Team Members:
 1. Andrew Neely [@AndrewN2024](https://github.com/AndrewN2024)
 2. Carter Johnson [@C0John](https://github.com/C0John)
-3. Nate Jarrow [@username here](profile link here)
+3. Nate Jarrow [@NateJ123](https://github.com/NateJ123/)
 4. Andrew Zhang [@drewteriyaki](https://github.com/drewteriyaki)
 5. Mark Zhang [@zhmark9](https://github.com/zhmark9)
    
