@@ -45,9 +45,9 @@ The staff entity has one final relationship along with its relationship to patie
 
 ![image](https://github.com/C0John/MIST4610Project/assets/148258373/814b8ccc-a142-428e-af5f-19cf7c1236dc)
 
-![image](https://github.com/C0John/MIST4610Project/assets/148258373/b72d7550-01b5-4711-a6bf-f94231e680e2)
+![image](https://github.com/C0John/MIST4610Project1/assets/148258373/956728c6-f650-4af2-b49f-4d70232e0faa)
 
-![image](https://github.com/C0John/MIST4610Project/assets/148258373/d982c3f8-2b01-40b0-ad3c-c06ffeb90cd3)
+![image](https://github.com/C0John/MIST4610Project1/assets/148258373/84cb31cc-bb90-49d4-a7a8-b61666187ab3)
 
 ![image](https://github.com/C0John/MIST4610Project/assets/148258373/26c0fd28-73c2-43f8-85f0-94608dd5e357)
 
