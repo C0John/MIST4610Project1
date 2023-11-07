@@ -132,7 +132,7 @@ Query 10 allows managers to see the age of each patient and how it corresponds w
 
 ## Database Information:
 Name of the database: cs_g6p1
-Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1();
+Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL Q1();
 
 
 
