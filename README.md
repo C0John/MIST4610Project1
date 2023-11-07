@@ -3,19 +3,19 @@
 The Dream Team
 
 ## Team Members:
-1. Andrew Neely @AndrewN2024
-2. Carter Johnson @C0John
-3. Nate Jarrow
-4. Andrew Zhang @drewteriyaki
-5. Mark Zhang @zhmark9
+1. Andrew Neely [@AndrewN2024](https://github.com/AndrewN2024)
+2. Carter Johnson [@C0John](https://github.com/C0John)
+3. Nate Jarrow [@username here](profile link here)
+4. Andrew Zhang [@drewteriyaki](https://github.com/drewteriyaki)
+5. Mark Zhang [@zhmark9](https://github.com/zhmark9)
    
 ## Problem Description
 Our client has tasked us with modeling the internal database of their urgent medical care facility. The facility provides emergency services that do not require a trip to a hospital emergency room, as well as regular scheduled appointments to patients. The facility is regularly staffed by multiple physicians and nurses. Physicians may prescribe and administer medication, and patients may be covered by insurance and provide feedback on the service(s) they received. Our team’s objective is to design the relational database around these aspects of the client’s business, taking into account how each entity interacts with each other. We are interested in accurately modeling these relationships as well as providing completed sample data. The database is also meant to keep track of their day-to-day operations and provide useful insights into trends, demographics, and other analytics. 
 
 ## Data Model:
 
-(Explanation of Data Model goes here, i.e explaining the tables and their relationships with each other)
-(See example project for reference)
+(Explanation of Data Model goes here, i.e explaining the tables and their relationships with each other, refer to example project for reference)
+Then, a copy and paste a screenshot of the data model or upload an image after this information is written (see example project).
 
 ## Data Dictionary:
 
