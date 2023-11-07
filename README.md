@@ -58,7 +58,7 @@ The staff entity has one final relationship along with its relationship to patie
 
 ## Queries
 
-(Query X Table Goes Here)
+![image](https://github.com/C0John/MIST4610Project/assets/148258373/25e837af-c1e6-4a02-98ed-4811e9017ed0)
 
 ### Query 1 (Complex)
 Query 1 lists the total revenue for each insurance provider during a specific date range. The results were grouped by the name of the Insurance Provider.
