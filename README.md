@@ -126,9 +126,9 @@ Query 9 allows managers to keep track of bills that are still unpaid from a spec
 ![image](https://github.com/C0John/MIST4610Project/assets/148258373/afd80767-a76d-4732-8d6b-196318982e0c)
 
 ### Query 10 (Complex)
-Query 10 returns a list of patients under the age of 70 that have had at least one appointment with the hospital, along with their age using a math formula. It also orders the results in descending order by the number of appointments each patient has had.
+Query 10 returns a list of patients under the age of 70 who have had at least one appointment with the hospital, along with their age using a math formula. It also orders the results in descending order by the number of appointments each patient has had.
 ### Justification:
-Query 10 allows managers to see the age of each patient and how it corresponds with the number of appointments the patient has had. This can be useful for recording demographics of the hospitals patients and running analytics. Additionally, the query is easily modifiable to look for patients of different age ranges, or patients with more than a certain number of appointments. 
+Query 10 allows managers to see the age of each patient and how it corresponds with the number of appointments the patient has had. This can be useful for recording demographics of the clinic's patients and running analytics. Additionally, the query is easily modifiable to look for patients of different age ranges, or patients with more than a certain number of appointments. 
 
 ![image](https://github.com/C0John/MIST4610Project/assets/148258373/30fcc3be-297b-451d-a4c0-f6e73af08585)
 
